@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/valusanikil/portfolio-nikil-valusa.git/static/css/main.6b9a8cbd.css",
-    "main.js": "/valusanikil/portfolio-nikil-valusa.git/static/js/main.d8f825f7.js",
-    "static/js/453.0a7d98a2.chunk.js": "/valusanikil/portfolio-nikil-valusa.git/static/js/453.0a7d98a2.chunk.js",
-    "static/media/Me.jpeg": "/valusanikil/portfolio-nikil-valusa.git/static/media/Me.c0c61e2bef47e1407c3a.jpeg",
-    "static/media/Profile.jpeg": "/valusanikil/portfolio-nikil-valusa.git/static/media/Profile.4700bcadc2f4bad005bc.jpeg",
-    "static/media/USF.png": "/valusanikil/portfolio-nikil-valusa.git/static/media/USF.f63f744e7ae7087a5e51.png",
-    "static/media/LinkedIn_img.png": "/valusanikil/portfolio-nikil-valusa.git/static/media/LinkedIn_img.4f809ad478582263b5a2.png",
-    "static/media/SRU.png": "/valusanikil/portfolio-nikil-valusa.git/static/media/SRU.e6afe6b2805c17627fa3.png",
-    "static/media/Github_Img.png": "/valusanikil/portfolio-nikil-valusa.git/static/media/Github_Img.4ac5642c3a0372d94948.png",
-    "index.html": "/valusanikil/portfolio-nikil-valusa.git/index.html",
-    "static/media/menu_open.svg": "/valusanikil/portfolio-nikil-valusa.git/static/media/menu_open.4f507d64d2cbabbd949de3f581a4e27c.svg",
-    "static/media/underline.svg": "/valusanikil/portfolio-nikil-valusa.git/static/media/underline.e702649e5f420e5dd7ba15eb248b2341.svg",
-    "static/media/menu_close.svg": "/valusanikil/portfolio-nikil-valusa.git/static/media/menu_close.2001e956d267bc9b1a2349ee0a8ee521.svg",
-    "main.6b9a8cbd.css.map": "/valusanikil/portfolio-nikil-valusa.git/static/css/main.6b9a8cbd.css.map",
-    "main.d8f825f7.js.map": "/valusanikil/portfolio-nikil-valusa.git/static/js/main.d8f825f7.js.map",
-    "453.0a7d98a2.chunk.js.map": "/valusanikil/portfolio-nikil-valusa.git/static/js/453.0a7d98a2.chunk.js.map"
+    "main.css": "/portfolio-nikil-valusa/static/css/main.6b9a8cbd.css",
+    "main.js": "/portfolio-nikil-valusa/static/js/main.a4efc779.js",
+    "static/js/453.0a7d98a2.chunk.js": "/portfolio-nikil-valusa/static/js/453.0a7d98a2.chunk.js",
+    "static/media/Me.jpeg": "/portfolio-nikil-valusa/static/media/Me.c0c61e2bef47e1407c3a.jpeg",
+    "static/media/Profile.jpeg": "/portfolio-nikil-valusa/static/media/Profile.4700bcadc2f4bad005bc.jpeg",
+    "static/media/USF.png": "/portfolio-nikil-valusa/static/media/USF.f63f744e7ae7087a5e51.png",
+    "static/media/LinkedIn_img.png": "/portfolio-nikil-valusa/static/media/LinkedIn_img.4f809ad478582263b5a2.png",
+    "static/media/SRU.png": "/portfolio-nikil-valusa/static/media/SRU.e6afe6b2805c17627fa3.png",
+    "static/media/Github_Img.png": "/portfolio-nikil-valusa/static/media/Github_Img.4ac5642c3a0372d94948.png",
+    "index.html": "/portfolio-nikil-valusa/index.html",
+    "static/media/menu_open.svg": "/portfolio-nikil-valusa/static/media/menu_open.4f507d64d2cbabbd949de3f581a4e27c.svg",
+    "static/media/underline.svg": "/portfolio-nikil-valusa/static/media/underline.e702649e5f420e5dd7ba15eb248b2341.svg",
+    "static/media/menu_close.svg": "/portfolio-nikil-valusa/static/media/menu_close.2001e956d267bc9b1a2349ee0a8ee521.svg",
+    "main.6b9a8cbd.css.map": "/portfolio-nikil-valusa/static/css/main.6b9a8cbd.css.map",
+    "main.a4efc779.js.map": "/portfolio-nikil-valusa/static/js/main.a4efc779.js.map",
+    "453.0a7d98a2.chunk.js.map": "/portfolio-nikil-valusa/static/js/453.0a7d98a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b9a8cbd.css",
-    "static/js/main.d8f825f7.js"
+    "static/js/main.a4efc779.js"
   ]
 }
