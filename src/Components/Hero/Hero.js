@@ -49,11 +49,12 @@ const Hero = () => {
   };
 
   const resumeLink = () => {
-    window.location.href = "https://www.hackerrank.com";
+    window.location.href =
+      "https://drive.google.com/file/d/1VqQB3poT48x7v6JOzAsRcZbiMde3LoY8/view?usp=drive_link";
   };
 
   const mediumLink = () => {
-    window.location.href = "https://www.hackerrank.com";
+    window.location.href = "https://medium.com/@valusa.nikhil13";
   };
 
   const hackerrankLink = () => {

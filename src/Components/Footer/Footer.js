@@ -12,7 +12,9 @@ const Footer = () => {
       </div>
       <hr />
       <div className="footer-bottom">
-        <p className="footer-bottom-left">@ 2025 Nikil Valusa</p>
+        <p className="footer-bottom-left">
+          @ 2025 Nikil Valusa | <span> Portfolio developed using React</span>
+        </p>
         <div className="footer-bottom-right">
           <p>Terms of Service</p>
           <p>Privacy Policy</p>
