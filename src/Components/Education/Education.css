@@ -1,0 +1,264 @@
+.education_heading {
+  font-size: 36px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #f8f9fa;
+  position: relative;
+  padding-bottom: 10px;
+  letter-spacing: 1px;
+  background: linear-gradient(267deg, #fc0317 0.36%, #ba06f1 102.06%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 40px;
+  margin-top: 80px;
+  text-align: center;
+}
+
+.education_heading::after {
+  content: "";
+  width: 100px;
+  height: 4px;
+  background: linear-gradient(45deg, #fc0317 0.36%, #ba06f1 102.06%);
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  border-radius: 2px;
+}
+
+/* Image Styling */
+img {
+  background-color: white;
+  height: 80px;
+  width: 300px;
+  display: block;
+  margin: 0 auto;
+  transition: transform 0.3s ease-in-out;
+  margin-bottom: 15px;
+  border-radius: 10px;
+}
+
+img:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+/* Education Container */
+.education_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+
+/* Education Cards */
+.education {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  width: 100%;
+  max-width: 1200px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+.education_sru,
+.education_usf {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 0 5px 5px whitesmoke;
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  border: 1px solid white;
+  color: white;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.education_sru:hover,
+.education_usf:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.4);
+}
+
+/* University Name */
+.education_sru h3,
+.education_usf h3 {
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px;
+  color: #07f32a;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 5px;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+
+/* Degree Styling */
+.education_sru h4,
+.education_usf h4 {
+  font-size: 18px;
+  font-weight: 600;
+  color: #ffffff;
+  text-align: center;
+  margin-bottom: 5px;
+  padding: 5px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  display: inline-block;
+}
+
+/* Date Styling */
+.education_sru p,
+.education_usf p {
+  font-size: 15px;
+  color: #cfcfcf;
+  text-align: center;
+  font-weight: 500;
+  opacity: 0.8;
+  margin-bottom: 5px;
+}
+
+/* Coursework Styling */
+.education_sru h4:last-of-type,
+.education_usf h4:last-of-type {
+  font-size: 15px;
+  font-weight: 500;
+  color: #ddd;
+  text-align: center;
+  margin-top: 10px;
+  padding: 10px;
+  background: rgba(255, 255, 255, 0.1);
+  border-left: 4px solid #41b009;
+  border-radius: 5px;
+  display: inline-block;
+  max-width: 80%;
+}
+
+/* Responsive Styles for All Devices */
+@media (max-width: 1200px) {
+  .education {
+    gap: 1.5rem;
+    padding: 0 15px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .education {
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+  }
+
+  .education_sru,
+  .education_usf {
+    padding: 18px;
+  }
+
+  .education_heading {
+    font-size: 32px;
+  }
+
+  img {
+    height: 70px;
+    width: 280px;
+  }
+}
+
+@media (max-width: 768px) {
+  .education {
+    grid-template-columns: 1fr; /* Stack elements */
+    gap: 3rem;
+    padding: 0 10px;
+  }
+
+  .education_heading {
+    font-size: 26px;
+  }
+
+  .education_sru,
+  .education_usf {
+    padding: 15px;
+  }
+
+  img {
+    height: 60px;
+    width: 240px;
+  }
+}
+
+@media (max-width: 600px) {
+  .education_heading {
+    font-size: 24px;
+    margin-top: 60px;
+    margin-bottom: 30px;
+  }
+
+  .education_sru h3,
+  .education_usf h3 {
+    font-size: 18px;
+  }
+
+  .education_sru h4,
+  .education_usf h4 {
+    font-size: 16px;
+  }
+
+  img {
+    height: 55px;
+    width: 220px;
+  }
+}
+
+@media (max-width: 480px) {
+  .education_heading {
+    font-size: 22px;
+    margin-top: 50px;
+    margin-bottom: 25px;
+  }
+
+  .education_sru,
+  .education_usf {
+    padding: 12px;
+    border-radius: 15px;
+  }
+
+  img {
+    height: 50px;
+    width: 200px;
+  }
+
+  .education_sru h3,
+  .education_usf h3 {
+    font-size: 16px;
+  }
+
+  .education_sru h4,
+  .education_usf h4 {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 360px) {
+  .education_heading {
+    font-size: 20px;
+  }
+
+  img {
+    height: 45px;
+    width: 180px;
+  }
+
+  .education_sru h3,
+  .education_usf h3 {
+    font-size: 14px;
+  }
+
+  .education_sru h4,
+  .education_usf h4 {
+    font-size: 12px;
+  }
+}
