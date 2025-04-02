@@ -33,7 +33,11 @@ const Projects = () => {
             >
               Github
             </a>
-            <a href="" className="btn-report" target="_blank">
+            <a
+              href="https://drive.google.com/file/d/1-CDxl_qNO-8Qo5dtJ7KfCNQExyKdGLz7/view?usp=sharing"
+              className="btn-report"
+              target="_blank"
+            >
               Report
             </a>
           </div>
@@ -57,7 +61,11 @@ const Projects = () => {
             >
               Github
             </a>
-            <a href="" className="btn-report" target="_blank">
+            <a
+              href="https://drive.google.com/file/d/1Xyrgqcb749xHGqoSACKJBnl5i2OSLgAJ/view?usp=sharing"
+              className="btn-report"
+              target="_blank"
+            >
               Report
             </a>
           </div>
@@ -108,7 +116,11 @@ const Projects = () => {
             >
               Github
             </a>
-            <a href="" className="btn-report" target="_blank">
+            <a
+              href="https://drive.google.com/file/d/1867OJICJSAuGvjG-_1IW6vOWLoHRgluO/view?usp=sharing"
+              className="btn-report"
+              target="_blank"
+            >
               Report
             </a>
           </div>
@@ -133,7 +145,11 @@ const Projects = () => {
             >
               Github
             </a>
-            <a href="" className="btn-report" target="_blank">
+            <a
+              href="https://drive.google.com/file/d/1yofypTHOPI9tV_-QdwCxpkSNyS4SXpIi/view?usp=sharing"
+              className="btn-report"
+              target="_blank"
+            >
               Report
             </a>
           </div>
