@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/portfolio-nikil-valusa/static/css/main.6b9a8cbd.css",
-    "main.js": "/portfolio-nikil-valusa/static/js/main.fad920d4.js",
+    "main.js": "/portfolio-nikil-valusa/static/js/main.7ea819f6.js",
     "static/js/453.0a7d98a2.chunk.js": "/portfolio-nikil-valusa/static/js/453.0a7d98a2.chunk.js",
     "static/media/Me.jpeg": "/portfolio-nikil-valusa/static/media/Me.c0c61e2bef47e1407c3a.jpeg",
-    "static/media/Profile.jpeg": "/portfolio-nikil-valusa/static/media/Profile.4700bcadc2f4bad005bc.jpeg",
+    "static/media/Profile.jpeg": "/portfolio-nikil-valusa/static/media/Profile.de61f418bf646c971497.jpeg",
     "static/media/Blood Bank System.png": "/portfolio-nikil-valusa/static/media/Blood Bank System.46d16fb29ace247eb79d.png",
     "static/media/Calorie Tracker.png": "/portfolio-nikil-valusa/static/media/Calorie Tracker.f6de20f4c04885010a91.png",
     "static/media/Insight Hub.png": "/portfolio-nikil-valusa/static/media/Insight Hub.b9869de1c663318bdb8d.png",
@@ -20,11 +20,11 @@
     "static/media/underline.svg": "/portfolio-nikil-valusa/static/media/underline.e702649e5f420e5dd7ba15eb248b2341.svg",
     "static/media/menu_close.svg": "/portfolio-nikil-valusa/static/media/menu_close.2001e956d267bc9b1a2349ee0a8ee521.svg",
     "main.6b9a8cbd.css.map": "/portfolio-nikil-valusa/static/css/main.6b9a8cbd.css.map",
-    "main.fad920d4.js.map": "/portfolio-nikil-valusa/static/js/main.fad920d4.js.map",
+    "main.7ea819f6.js.map": "/portfolio-nikil-valusa/static/js/main.7ea819f6.js.map",
     "453.0a7d98a2.chunk.js.map": "/portfolio-nikil-valusa/static/js/453.0a7d98a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b9a8cbd.css",
-    "static/js/main.fad920d4.js"
+    "static/js/main.7ea819f6.js"
   ]
 }
