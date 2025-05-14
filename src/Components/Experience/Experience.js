@@ -20,12 +20,10 @@ const Experience = () => {
         <div className="experience-content">
           <div className="experience-item">
             <h6>
-              <b onClick={clinDCastLink}>
-                Undisclosed Healthcare Analytics Firm, Florida, USA
-              </b>
+              <b onClick={clinDCastLink}>ClinDCast, Florida, USA</b>
             </h6>
-            <h4>HL7 FHIR Trainee - Intern</h4>
-            <h5>Dec 2024 - Present</h5>
+            <h4>Intern</h4>
+            <h5>Dec 2024 - May 2025</h5>
             <ul>
               <li>
                 Created 50+ HL7 templates in Java, integrating MSH, EVN, PID,
