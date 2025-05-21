@@ -20,12 +20,12 @@ const Education = () => {
           <div className="education_sru">
             <img src={SRU} alt="" onClick={sruLink}></img>
             <h3 onClick={sruLink}>SR University</h3>
-            <h4>Bachelors in Electrnoics and Communication Engineering</h4>
+            <h4>Bachelors in Computer Science</h4>
             <p>Jul 2017- Jul 2021</p>
             <h4>
               Coursework: Java, C Programming, Data Structures, Computer
               Networks, Entrepreneurship, Project Management, Computer
-              Organization, Network Analysis
+              Organization, Operating Systems.
             </h4>
           </div>
           <div className="education_usf">
