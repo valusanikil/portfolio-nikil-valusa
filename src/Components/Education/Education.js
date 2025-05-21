@@ -25,7 +25,8 @@ const Education = () => {
             <h4>
               Coursework: Java, C Programming, Data Structures, Computer
               Networks, Entrepreneurship, Project Management, Computer
-              Organization, Operating Systems.
+              Organization, Operating Systems, Machine Learning, Web
+              Development.
             </h4>
           </div>
           <div className="education_usf">
