@@ -146,7 +146,7 @@
 
 .passionate-text {
   text-align: center;
-  margin-left: 140px;
+  margin-left: 100px;
   font-weight: 500;
 }
 
@@ -267,7 +267,7 @@
 
   .passionate-text {
     margin: 0;
-    text-align: center;
+    margin-left: 60px;
     font-size: 14px;
   }
 }

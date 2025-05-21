@@ -10,10 +10,9 @@ const Hero = () => {
   const [isDeleting, setIsDeleting] = useState(false);
   const toRotate = [
     "Software Engineer",
-    "Java Full-Stack Developer",
+    "Full-Stack Developer",
     "Java Developer",
     "Software Developer",
-    "Data Analyst",
   ];
   const [text, setText] = useState("");
   const [delta, setDelta] = useState(50);
