@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio-nikil-valusa/static/css/main.e3af97d4.css",
+    "main.css": "/portfolio-nikil-valusa/static/css/main.b2d1a539.css",
     "main.js": "/portfolio-nikil-valusa/static/js/main.eaacc963.js",
     "static/js/453.0a7d98a2.chunk.js": "/portfolio-nikil-valusa/static/js/453.0a7d98a2.chunk.js",
     "static/media/Me.jpeg": "/portfolio-nikil-valusa/static/media/Me.c0c61e2bef47e1407c3a.jpeg",
@@ -19,12 +19,12 @@
     "static/media/menu_open.svg": "/portfolio-nikil-valusa/static/media/menu_open.4f507d64d2cbabbd949de3f581a4e27c.svg",
     "static/media/underline.svg": "/portfolio-nikil-valusa/static/media/underline.e702649e5f420e5dd7ba15eb248b2341.svg",
     "static/media/menu_close.svg": "/portfolio-nikil-valusa/static/media/menu_close.2001e956d267bc9b1a2349ee0a8ee521.svg",
-    "main.e3af97d4.css.map": "/portfolio-nikil-valusa/static/css/main.e3af97d4.css.map",
+    "main.b2d1a539.css.map": "/portfolio-nikil-valusa/static/css/main.b2d1a539.css.map",
     "main.eaacc963.js.map": "/portfolio-nikil-valusa/static/js/main.eaacc963.js.map",
     "453.0a7d98a2.chunk.js.map": "/portfolio-nikil-valusa/static/js/453.0a7d98a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3af97d4.css",
+    "static/css/main.b2d1a539.css",
     "static/js/main.eaacc963.js"
   ]
 }
