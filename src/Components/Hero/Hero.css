@@ -267,7 +267,11 @@
 
   .passionate-text {
     margin: 0;
-    margin-left: 44px;
+    margin-left: 34px;
+    font-size: 14px;
+  }
+
+  .wrap .typed-text {
     font-size: 14px;
   }
 }
