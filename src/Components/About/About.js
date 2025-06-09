@@ -33,13 +33,13 @@ const About = () => {
             <article className="about_card">
               <FaUserGraduate className="about_icon"></FaUserGraduate>
               <h5>Education</h5>
-              <small>M.Sc. Masters Degree</small>
+              <small>M.S (Masters Degree)</small>
               <br />
-              <small>B.Sc. Bachelors Degree</small>
+              <small>B.S (Bachelors Degree)</small>
             </article>
           </div>
           <p>
-            Software Engineer with 4 years of experience in designing and
+            Software Engineer with 5+ years of experience in designing and
             developing scalable, high-performance backend systems using Spring
             Boot, Spring WebFlux, and Microservices architecture. Proficient in
             building robust RESTful APIs and integrating Spring Security, OAuth

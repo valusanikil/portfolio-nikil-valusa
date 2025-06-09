@@ -22,7 +22,7 @@ const Experience = () => {
             <h6>
               <b onClick={clinDCastLink}>ClinDCast, Florida, USA</b>
             </h6>
-            <h4>Intern</h4>
+            <h4>Software Engineer Intern</h4>
             <h5>Dec 2024 - May 2025</h5>
             <ul>
               <li>
@@ -97,7 +97,7 @@ const Experience = () => {
               <b onClick={TechMahindraLink}>Tech Mahindra, Hyderabad, India</b>
             </h6>
             <h4>Associate Software Engineer</h4>
-            <h5>Mar 2020 - Jul 2021</h5>
+            <h5>Jan 2019 - Jul 2021</h5>
             <ul>
               <li>
                 Developed 2 microservices using Spring Boot and implemented

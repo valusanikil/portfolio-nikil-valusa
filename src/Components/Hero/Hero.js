@@ -49,7 +49,7 @@ const Hero = () => {
 
   const resumeLink = () => {
     window.location.href =
-      "https://drive.google.com/file/d/1VqQB3poT48x7v6JOzAsRcZbiMde3LoY8/view?usp=drive_link";
+      "https://drive.google.com/file/d/1F2qjLt6bmzkOSSLHZIItQGUVH9iN3GvV/view?usp=drive_link";
   };
 
   const mediumLink = () => {
@@ -85,7 +85,7 @@ const Hero = () => {
       </h2>
 
       <p>
-        Experienced in building scalable applications with 4 years of hands-on
+        Experienced in building scalable applications with 5+ years of hands-on
         expertise in Java, Spring (MVC, Boot, WebFlux, Security), Microservices,
         SQL, JavaScript, Angular, React, and cloud platforms like AWS, Docker,
         and Kubernetes.
