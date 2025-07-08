@@ -22,8 +22,8 @@ const Experience = () => {
             <h6>
               <b onClick={clinDCastLink}>ClinDCast, Florida, USA</b>
             </h6>
-            <h4>Software Engineer Intern</h4>
-            <h5>Dec 2024 - May 2025</h5>
+            <h4>Software Engineer</h4>
+            <h5>Dec 2024 - Present</h5>
             <ul>
               <li>
                 Created 50+ HL7 templates in Java, integrating MSH, EVN, PID,
