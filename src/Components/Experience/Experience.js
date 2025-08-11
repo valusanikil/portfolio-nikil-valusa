@@ -97,7 +97,7 @@ const Experience = () => {
               <b onClick={TechMahindraLink}>Tech Mahindra, Hyderabad, India</b>
             </h6>
             <h4>Associate Software Engineer</h4>
-            <h5>Jan 2019 - Jul 2021</h5>
+            <h5>Mar 2019 - Jul 2021</h5>
             <ul>
               <li>
                 Developed 2 microservices using Spring Boot and implemented
