@@ -2,8 +2,8 @@ import React from "react";
 import "../Experience/Experience.css";
 
 const Experience = () => {
-  const clinDCastLink = () => {
-    window.location.href = "https://www.clindcast.com";
+  const centeneLink = () => {
+    window.location.href = "https://www.centene.com";
   };
 
   const LTIMindtreeLink = () => {
@@ -20,9 +20,9 @@ const Experience = () => {
         <div className="experience-content">
           <div className="experience-item">
             <h6>
-              <b onClick={clinDCastLink}>ClinDCast, Florida, USA</b>
+              <b onClick={centeneLink}>Centene Corporation, Florida, USA</b>
             </h6>
-            <h4>Software Engineer</h4>
+            <h4>Senior Software Engineer</h4>
             <h5>Dec 2024 - Present</h5>
             <ul>
               <li>
