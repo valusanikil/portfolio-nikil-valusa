@@ -21,7 +21,6 @@ const Education = () => {
             <img src={SRU} alt="" onClick={sruLink}></img>
             <h3 onClick={sruLink}>SR University</h3>
             <h4>Bachelors in Computer Science</h4>
-            <p>Jul 2017- Jul 2021</p>
             <h4>
               Coursework: Java, C Programming, Data Structures, Computer
               Networks, Entrepreneurship, Project Management, Computer
@@ -33,7 +32,6 @@ const Education = () => {
             <img src={USF} alt="" onClick={usfLink}></img>
             <h3 onClick={usfLink}>University of South Florida</h3>
             <h4>Masters in Business Analytics and Information Systems</h4>
-            <p>Aug 2023 - May 2025</p>
             <h4>
               Coursework: Advance Database Management Systems, Advance System
               Analysis/Design, App Development for Analytics, Project
