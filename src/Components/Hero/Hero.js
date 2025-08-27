@@ -48,8 +48,7 @@ const Hero = () => {
   };
 
   const resumeLink = () => {
-    window.location.href =
-      "https://drive.google.com/file/d/1FozVZGIbpriRLV01tDBFDMewiuDB_2XO/view?usp=drive_link";
+    window.location.href = "/";
   };
 
   const mediumLink = () => {
