@@ -48,7 +48,7 @@ const Hero = () => {
   };
 
   const resumeLink = () => {
-    window.location.href = "/";
+    window.location.href = "https://www.google.com/";
   };
 
   const mediumLink = () => {
