@@ -20,9 +20,9 @@ const Experience = () => {
         <div className="experience-content">
           <div className="experience-item">
             <h6>
-              <b onClick={centeneLink}>Centene Corporation, Florida, USA</b>
+              <b onClick={centeneLink}>ClinDCast, Florida, USA</b>
             </h6>
-            <h4>Senior Software Engineer</h4>
+            <h4>Intern</h4>
             <h5>Dec 2024 - Present</h5>
             <ul>
               <li>
@@ -97,7 +97,7 @@ const Experience = () => {
               <b onClick={TechMahindraLink}>Tech Mahindra, Hyderabad, India</b>
             </h6>
             <h4>Associate Software Engineer</h4>
-            <h5>Sept 2019 - Jul 2021</h5>
+            <h5>Mar 2020 - Jul 2021</h5>
             <ul>
               <li>
                 Developed 2 microservices using Spring Boot and implemented

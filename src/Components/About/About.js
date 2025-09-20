@@ -39,7 +39,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            Software Engineer with 5+ years of experience in designing and
+            Software Engineer with 4+ years of experience in designing and
             developing scalable, high-performance backend systems using Spring
             Boot, Spring WebFlux, and Microservices architecture. Proficient in
             building robust RESTful APIs and integrating Spring Security, OAuth
